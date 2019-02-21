@@ -1,0 +1,17 @@
+span {
+   padding: 100px;
+    display: inline-block;
+   background-color: red;
+}
+
+p {
+  margin: 0;
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+
+}
+.green{
+  background-color: green;
+}
